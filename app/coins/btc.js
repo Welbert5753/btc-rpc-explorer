@@ -1,4 +1,4 @@
-"Welbert5753/btc-rpc-explorer";
+"use strict";
 
 const Decimal = require("decimal.js");
 const Decimal8 = Decimal.clone({ precision:8, rounding:8 });
